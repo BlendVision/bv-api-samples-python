@@ -1,8 +1,10 @@
 # Sample code to query DASH/HLS url and DRM playback token
 
-## System Requirements
+## System requirements
 Python 3.x
 BlendVision One API key and organization ID configuration
+
+## Environment variable:
 
 ```env
 BV_CONTENT_ID=your_content_id
